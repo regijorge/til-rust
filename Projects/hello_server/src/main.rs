@@ -1,6 +1,6 @@
 use std::{
     io::{BufReader, prelude::*},
-    net::{TcpListener, TcpStream}
+    net::{TcpListener, TcpStream},
 };
 
 fn main() {
